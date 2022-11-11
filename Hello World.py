@@ -1,2 +1,8 @@
 print ('Hello World')
 print ("Hello World")
+print ("I\'m Riyaz")
+print ("line A\nline B")
+print ("Sr.No.\tName\t\tGender\t\tAge")
+print ("1.\tRiyaz\t\tM\t\t32")
+print ("hell\blo")
+print ("\\\" \\\' ")

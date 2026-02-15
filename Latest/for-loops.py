@@ -62,3 +62,50 @@ for s in range(6):
     print(s)
 else:
     print("Finally Finished")
+
+
+# Nasted Loops
+num = [1,2,3]
+adj = ["red", "big", "tasty"]
+fruits = ["apple", "banana", "cherry"]
+
+for x in adj:
+    for y in fruits:
+        print(x,y)
+
+
+
+# The pass statement
+for p in [0,1,2]:
+    pass
+
+
+
+'''
+Challenge
+Create a list called fruits with: "apple", "banana", "cherry"
+Write a for loop that iterates through fruits, but use break to stop when the item is "banana"
+Print each item before the break check
+Write a second for loop using range(6) that prints numbers 0 through 5
+Loop through the letters in the string "banana" and print each letter
+'''
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
